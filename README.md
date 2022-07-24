@@ -1,2 +1,2 @@
-# lista-presen-a-discover-rocketseat
-Projeto criado duante o discover da Rocketseat.
+# lista-presença-discover-rocketseat
+Projeto criado durante o discover da Rocketseat.
